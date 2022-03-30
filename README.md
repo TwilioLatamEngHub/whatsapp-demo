@@ -42,7 +42,7 @@
 
 To add new templates to the script, two steps are needed, after the template is approved by WhatsApp:
 
-1. Create a `[CONTACT_REASON].txt` file
+1. Create a `[CONTACT_REASON].txt` file within the `templates` folder
 2. Add `CONTACT REASON` to the `KNOWN_REASONS` constant in the script file (`load-contact-list.js`)
 
 After that, contacts with the new contact reason in the `REASON` column will be correctly processed.
