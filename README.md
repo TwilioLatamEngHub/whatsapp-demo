@@ -1,4 +1,4 @@
-# Nubank Whatsapp POC
+# Bulk Whatsapp Sample
 
 ## Requirements
 
