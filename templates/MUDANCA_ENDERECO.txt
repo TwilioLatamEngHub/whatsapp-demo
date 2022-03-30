@@ -1,0 +1,1 @@
+Olá *{{1}}*. Recebemos uma solicitação de mudança de endereço. Para confirmar, responda *SIM*.

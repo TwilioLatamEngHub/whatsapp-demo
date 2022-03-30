@@ -1,0 +1,9 @@
+Olá {{1}}!
+ 
+Temos uma boa notícia! 🎉
+ 
+O seu cadastro no Parceiro Magalu foi aprovado. ✅
+
+Agora é só cadastrar seus produtos e começar a vender on-line na nossa plataforma!
+Veja o passo a passo aqui 👇
+{{2}}
